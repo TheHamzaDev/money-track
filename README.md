@@ -32,3 +32,10 @@ or
 ```
 npm start
 ```
+The app should now be running on your localhost server.
+
+### Environment Variables
+```
+MONGO_URL=your_mongodb_url
+```
+Replace with your actual MongoDB connection string.
