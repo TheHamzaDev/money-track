@@ -14,10 +14,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Step 1: Clone the repository
 ```
-git clone https://github.com/TheHamzaDev/MoneyTrack.git
+git clone https://github.com/TheHamzaDev/money-track.git
 ```
 ### Step 2: Navigate To Clone
 ```
-cd your_path/MoneyTrack
+cd your_path/money-track
 ```
-
+### Step 3: Install Dependencies
+```
+npm install
+```
+### Step 4: Run Project
+```
+npm run dev
+```
+or
+```
+npm start
+```
